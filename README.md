@@ -1,4 +1,5 @@
 # Allen Diaz
 # Adrienne Denise Gumtang
 # Vince Van Gogh Galang
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+# AJAX and jQuery Activity
+![alt text](https://github.com/senb-b/ajaxproj/blob/main/Screenshot%201.png)
